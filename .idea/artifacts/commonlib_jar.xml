@@ -7,7 +7,7 @@
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.22/kotlin-stdlib-1.9.22.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.22/kotlin-stdlib-jdk7-1.9.22.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/lombok.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/studysource/winepj/product-service/customlib/lombok.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
