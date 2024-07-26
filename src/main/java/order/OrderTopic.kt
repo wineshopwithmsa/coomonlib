@@ -1,4 +1,4 @@
-package main.java
+package main.java.order
 
 object OrderTopic {
     const val ORDER_CREATED = "ORDER-CREATED"
